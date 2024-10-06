@@ -55,7 +55,7 @@ header::before{
     content: "";
     background: url('mainbgc.jpg') no-repeat center center /cover;
     position: absolute;
-    height: 790px;
+    height: 755px;
     width: 100%;
     z-index: -1;
     opacity: 0.3;
